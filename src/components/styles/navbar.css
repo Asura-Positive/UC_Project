@@ -1,0 +1,24 @@
+.item-nav{
+    position: relative;
+}
+
+/* .item-nav:hover{
+
+} */
+
+.item-nav::after{
+    content: "";
+    opacity: 0;
+    transition: all 0.2s;
+    height: 5px;
+    width: 100%;
+    background-color: greenyellow;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.item-nav:hover::after{
+    opacity: 1;
+   
+}

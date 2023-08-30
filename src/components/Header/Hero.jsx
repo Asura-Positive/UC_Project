@@ -14,26 +14,26 @@ const Hero = () => {
 
       <div className="carousel-inner">
         <div className="carousel-item active c-item">
-          <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?fit=crop&w=1964&q=100" alt="" className='d-block w-100 c-img'/>
+          <img src="https://img.freepik.com/free-vector/large-school-building-scene_1308-32058.jpg?w=2000" alt="" className='d-block w-100 c-img'/>
           <div className="carousel-caption top-0 mt-4">
-            <p className="mt-5 fs-3 text-uppercase">Discover the hidden world</p>
-            <h1 className="display-1 fw-bolder text-capitalize">The Aurora Tours</h1>
+            <p className="mt-5 fs-3 text-uppercase">College Hero Section</p>
+            <h1 className="display-1 fw-bolder text-capitalize">Title</h1>
             
           </div>
         </div>
         <div className="carousel-item c-item">
-          <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?fit=crop&w=1964&q=100" alt="" className='d-block w-100 c-img'/>
+        <img src="https://img.freepik.com/free-vector/large-school-building-scene_1308-32058.jpg?w=2000" alt="" className='d-block w-100 c-img'/>
           <div className="carousel-caption top-0 mt-4">
-            <p className="text-uppercase fs-3 mt-5">The season has arrived</p>
-            <p className="display-1 fw-bolder text-capitalize">3 available tours</p>
+            <p className="mt-5 fs-3 text-uppercase">College Hero Section</p>
+            <h1 className="display-1 fw-bolder text-capitalize">Title</h1>
             
           </div>
         </div>
         <div className="carousel-item c-item">
-          <img src="https://images.unsplash.com/photo-1579033461380-adb47c3eb938?fit=crop&w=1964&q=100" alt="" className='d-block w-100 c-img'/>
+        <img src="https://img.freepik.com/free-vector/large-school-building-scene_1308-32058.jpg?w=2000" alt="" className='d-block w-100 c-img'/>
           <div className="carousel-caption top-0 mt-4">
-            <p className="text-uppercase fs-3 mt-5">Destination activities</p>
-            <p className="display-1 fw-bolder text-capitalize">Go glacier hiking</p>
+            <p className="mt-5 fs-3 text-uppercase">College Hero Section</p>
+            <h1 className="display-1 fw-bolder text-capitalize">Title</h1>
           </div>
         </div>
       </div>

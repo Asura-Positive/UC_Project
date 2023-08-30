@@ -5,7 +5,7 @@ import '../styles/footer.css'
 const Footer = () => {
   return (
     <>
-    <footer id="footer">
+    <footer id="footer" className='bottom-0'>
         <div className="footer-top">
             <div className="container">
                 <div className="row">
@@ -31,21 +31,21 @@ const Footer = () => {
                 <div className="col-lg-3 col-md-6 footer-links">
                     <h4>Our Information</h4>
                     <ul>
-                    <li><i className="bx bx-chevron-right"></i> Location</li>
-                    <li><i className="bx bx-chevron-right"></i> Phone Number </li>
-                    <li><i className="bx bx-chevron-right"></i> Email School</li>
-                    <li><i className="bx bx-chevron-right"></i> Desk Phone Number</li>
+                    <li><i className="pe-3 fa-solid fa-map-location-dot"></i> Location</li>
+                    <li><i className="pe-3 fa-solid fa-phone"></i> Phone Number </li>
+                    <li><i className="pe-3 fa-solid fa-envelope"></i> Email School</li>
+                    <li><i className="pe-3 fa-solid fa-blender-phone"></i> Desk Phone Number</li>
                     </ul>
                 </div>
 
                 <div className="col-lg-3 col-md-6 footer-links">
                     <h4>Our Social Networks</h4>
                     <div className="social-links mt-3">
-                    <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
-                    <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
-                    <a href="#" className="instagram"><i className="bx bxl-instagram"></i></a>
-                    <a href="#" className="google-plus"><i className="bx bxl-skype"></i></a>
-                    <a href="#" className="linkedin"><i className="bx bxl-linkedin"></i></a>
+                    <a href="#" className="twitter"><i className="fa-brands fa-x-twitter"></i></a>
+                    <a href="#" className="facebook"><i className="fa-brands fa-facebook-f"></i></a>
+                    <a href="#" className="instagram"><i className="fa-brands fa-instagram"></i></a>
+                    <a href="#" className="google-plus"><i className="fa-brands fa-wikipedia-w"></i></a>
+                    <a href="#" className="linkedin"><i className="fa-brands fa-linkedin-in"></i></a>
                     </div>
                 </div>
 
@@ -55,7 +55,7 @@ const Footer = () => {
 
             <div className="container footer-bottom clearfix">
             <div className="copyright">
-                &copy; Copyright <strong><span>&</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>2023</span></strong>. All Rights Reserved
             </div>
             <div className="credits">
             

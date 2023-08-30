@@ -19,14 +19,16 @@ const deanCard= (dean)=>{
 const Dean = () => {
   return (
     <>
+    <h1 className="text-center">Here All The Dean</h1>  
     <div className="wrapper py-4 d-flex justify-content-center">
+        
         <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
             <Carousels />
             <div className="carousel-inner">
                     <div className="carousel-item active carousel px-5">
                         <div className="cards d-flex justify-content-center align-items-center">
                             <div className="img d-flex justify-content-center align-items-center">
-                                <img src="" alt="" />
+                                <img src="https://www.pngitem.com/pimgs/m/24-248235_user-profile-avatar-login-account-fa-user-circle.png" alt="" />
                             </div>
                             <h2>Blanche Pearson</h2>
                             <span>Sales Manager</span>

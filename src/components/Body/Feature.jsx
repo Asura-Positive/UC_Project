@@ -6,7 +6,7 @@ const Feature = () => {
     <>
     <section id="featured-services" className="featured-services py-5">
         <div className="container" >
-
+            <h2 className="text-center">Program</h2>
             <div className="row">
                 <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                 <div className="icon-box">
