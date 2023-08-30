@@ -17,12 +17,6 @@ const deans = [
         name : "Dean Name",
         college: "College Name"
     },
-    {
-        id: 4,
-        img: "",
-        name : "Dean Name",
-        college: "College Name"
-    },
 ];
 
 export default deans;
